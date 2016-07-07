@@ -1,5 +1,5 @@
 {
-    "name": "@remobile/react-native-splashscreen",
+    "name": "react-native-splashscreen",
         "version": "1.0.3",
         "description": "A splashscreen for react-native, hide when application loaded",
         "main": "index.js",
